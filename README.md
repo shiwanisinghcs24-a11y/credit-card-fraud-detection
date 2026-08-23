@@ -1,5 +1,8 @@
 # Credit Card Fraud Detection
 
+
+🔗 **[Try the Live Demo](https://credit-card-fraud-detection-wdyxxu5xozefbvebs8dsre.streamlit.app/)**
+
 A machine learning project that detects fraudulent credit card transactions in a highly imbalanced dataset, using Logistic Regression and Random Forest.
 
 ## Problem Statement
